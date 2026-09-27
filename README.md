@@ -49,19 +49,19 @@ The project focuses on implementing a functional trust-based gameplay system com
 
 ## 🧩 Key Systems
 
-### ⭐ Trust System
+### 💜 Trust System
 
 The core gameplay mechanic is a trust system that allows player interactions and decisions to influence the relationship between Anne and Kia.
 
-### ⭐ Dialogue System
+### 💬 Dialogue System
 
 Dialogue and interactions are used to progress the story and present different situations to the player.
 
-### ⭐ Tile-Based Maps
+### 🗺️ Tile-Based Maps
 
 Game environments are created using Tiled and integrated into the Java application.
 
-### ⭐ Audio System
+### 🎵 Audio System
 
 The game includes background music and audio integrated into the gameplay experience.
 
@@ -100,7 +100,7 @@ My contributions to the project included:
 
 - Java JDK 25
 - Apache Maven
-- NetBeans (recommended)
+- Apache NetBeans IDE 28 (recommended)
 
 ### Steps
 
@@ -112,28 +112,24 @@ My contributions to the project included:
    
 2. Open the project in NetBeans.
 3. Allow Maven to load the required dependencies.
-4. Build the project.
+4. Clean and build the project.
 5. Run the application.
 
 ---
 
 ## 📦 Release
 
-A ready-to-run release is available under GitHub Releases.
+A ready-to-run release is available under **GitHub Releases**.
 
 **[Download ANIANA for Windows](../../releases/latest)**
 
-1. Download `ANIANA.zip` from the latest release.
-2. Extract the ZIP file.
-3. Open the extracted `ANIANA` folder.
-4. Double-click `ANIANA.exe`.
-5. Enjoy the game!
+The included ZIP file contains the compiled ANIANA application and can be used to run the game without opening the project in NetBeans.
 
 ---
 
 ## 🎓 Project Information
 
-ANIANA was developed collaboratively as part of an academic game development project to apply and demonstrate the programming concepts and skills learned throughout the Intermediate Programming course using NetBeans and Java.
+ANIANA was developed collaboratively as part of an academic game development project to apply and demonstrate the programming concepts and skills learned throughout the **Intermediate Programming** course using NetBeans and Java.
 
 ---
 
